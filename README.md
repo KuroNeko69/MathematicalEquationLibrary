@@ -11,3 +11,5 @@ Metoda calculateDelta() liczy deltę równania kwadratowego.
 Metoda calculateX0() liczy pierwiastek równania kwadratowego dla delty równej 0.
 
 Metody calculateX1() i calculateX2() liczą pierwiastki równania kwadratowego dla delty większej od zera.  
+
+Link do przykładu użycia biblioteki: https://github.com/KuroNeko69/MathematicalEquationExamlpe
